@@ -189,7 +189,7 @@ fun SavedScreen(navController: NavHostController) {
                 if (SavedItemsManager.savedSellers.isEmpty()) {
                     item { EmptyState("👨‍🌾", "No saved sellers yet",
                         "Browse Direct Buy and bookmark your favorite farmers.",
-                        "Go to Direct Buy") { navController.navigate("buy") { launchSingleTop = true } }
+                        "Go to Direct Buy") { navController.navigate("direct_buy") { launchSingleTop = true } }
                     }
                 } else {
                     items(SavedItemsManager.savedSellers.toList(), key = { it.name }) { seller ->

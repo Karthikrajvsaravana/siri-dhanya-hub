@@ -123,7 +123,7 @@ fun HomeScreen(navController: NavController) {
         item {
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
                 HomeFeatureCard("Health",     "Nutritional info",  Icons.Default.Favorite,       Modifier.weight(1f)) { navController.navigate("health") }
-                HomeFeatureCard("Direct Buy", "From farmers",      Icons.Default.ShoppingBasket, Modifier.weight(1f)) { navController.navigate("buy") }
+                HomeFeatureCard("Direct Buy", "From farmers",      Icons.Default.ShoppingBasket, Modifier.weight(1f)) { navController.navigate("direct_buy") }
             }
         }
 

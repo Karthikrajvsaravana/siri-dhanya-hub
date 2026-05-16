@@ -126,7 +126,7 @@ fun HomeScreenKannada(navController: NavController) {
         item {
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
                 HomeFeatureCardKannada("ಆರೋಗ್ಯ",     "ಪೌಷ್ಟಿಕಾಂಶ ಮಾಹಿತಿ",  Icons.Default.Favorite,       Modifier.weight(1f)) { navController.navigate("health_kn") }
-                HomeFeatureCardKannada("ನೇರ ಖರೀದಿ", "ರೈತರಿಂದ",      Icons.Default.ShoppingBasket, Modifier.weight(1f)) { navController.navigate("buy_kn") }
+                HomeFeatureCardKannada("ನೇರ ಖರೀದಿ", "ರೈತರಿಂದ",      Icons.Default.ShoppingBasket, Modifier.weight(1f)) { navController.navigate("direct_buy_kn") }
             }
         }
 

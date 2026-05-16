@@ -256,13 +256,13 @@ fun SavedScreenKannada(navController: NavHostController) {
                 if (SavedItemsManager.savedSellers.isEmpty()) {
                     item { EmptyStateKannada("👨‍🌾", "ಇನ್ನೂ ಯಾವುದೇ ಮಾರಾಟಗಾರರನ್ನು ಉಳಿಸಿಲ್ಲ",
                         "ನೇರ ಖರೀದಿಯನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ನೆಚ್ಚಿನ ರೈತರನ್ನು ಉಳಿಸಿ.",
-                        "ನೇರ ಖರೀದಿಗೆ ಹೋಗಿ") { navController.navigate("buy_kn") { launchSingleTop = true } }
+                        "ನೇರ ಖರೀದಿಗೆ ಹೋಗಿ") { navController.navigate("direct_buy_kn") { launchSingleTop = true } }
                     }
                 } else {
                     items(SavedItemsManager.savedSellers.toList(), key = { it.name }) { seller ->
                         Card(
                             modifier = Modifier.fillMaxWidth().shadow(4.dp, RoundedCornerShape(18.dp))
-                                .clickable { navController.navigate("seller_detail/${seller.name}") },
+                                .clickable { navController.navigate("seller_detail_kn/${seller.name}") },
                             shape = RoundedCornerShape(18.dp),
                             colors = CardDefaults.cardColors(containerColor = CardWhite)
                         ) {
