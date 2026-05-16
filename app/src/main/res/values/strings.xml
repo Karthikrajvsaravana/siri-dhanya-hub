@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Siri-Dhanya Hub</string>
+
+    <!-- ── Splash ─────────────────────────────────────────────────────── -->
+    <string name="splash_bg_desc">Splash Background</string>
+
+    <!-- ── Welcome ────────────────────────────────────────────────────── -->
+    <string name="welcome_logo_desc">Siri Dhanya Logo</string>
+    <string name="welcome_banner_desc">Welcome Banner</string>
+    <string name="welcome_tagline">Empowering the Millet Ecosystem</string>
+    <string name="welcome_heading">Welcome to\nSiri-Dhanya Hub</string>
+    <string name="welcome_description">Smart support for farmers, families and healthy millet living.</string>
+    <string name="welcome_choose_language">Choose Your Language</string>
+    <string name="welcome_language_hint">You can change this anytime later.</string>
+    <string name="welcome_continue">Continue</string>
+    <string name="lang_english">English</string>
+    <string name="lang_kannada">ಕನ್ನಡ</string>
+
+    <!-- ── Home ───────────────────────────────────────────────────────── -->
+    <string name="home_greeting">Namaskara, Karthik</string>
+    <string name="home_welcome_back">Welcome back to Siri-Dhanya Hub</string>
+    <string name="home_notifications_desc">Notifications</string>
+    <string name="home_search_placeholder">Search prices, recipes, health tips…</string>
+    <string name="home_search_desc">Search</string>
+    <string name="home_market_pulse_label">TODAY\'S MARKET PULSE</string>
+    <string name="home_market_pulse_tap">Tap to view full market data →</string>
+    <string name="home_feature_mandi">Mandi Watch</string>
+    <string name="home_feature_mandi_sub">Live prices</string>
+    <string name="home_feature_recipe">Recipe Lab</string>
+    <string name="home_feature_recipe_sub">Healthy cooking</string>
+    <string name="home_feature_health">Health</string>
+    <string name="home_feature_health_sub">Nutritional info</string>
+    <string name="home_feature_buy">Direct Buy</string>
+    <string name="home_feature_buy_sub">From farmers</string>
+    <string name="home_popular_millets">Popular Millets</string>
+    <string name="home_quick_recommendations">Quick Recommendations</string>
+    <string name="home_rec_upma">Millet Upma Special</string>
+    <string name="home_rec_upma_sub">Low-GI breakfast · Navane</string>
+    <string name="home_rec_iron">Iron Boost Guide</string>
+    <string name="home_rec_iron_sub">Navane energy benefits</string>
+    <string name="home_rec_price">Best Ragi Price Today</string>
+    <string name="home_rec_price_sub">₹3,420 in Davanagere Market</string>
+
+    <!-- ── Search ──────────────────────────────────────────────────────── -->
+    <string name="search_title">Search</string>
+    <string name="search_back_desc">Back</string>
+    <string name="search_placeholder">Search recipes, millets, health…</string>
+    <string name="search_clear_desc">Clear</string>
+    <string name="search_recent_searches">Recent Searches</string>
+    <string name="search_trending">Trending</string>
+    <string name="search_results">Results</string>
+    <string name="search_no_results">No results found for "%1$s"</string>
+    <string name="search_open_desc">Open</string>
+    <string name="search_cat_recipes">Recipes</string>
+    <string name="search_cat_health">Health</string>
+    <string name="search_cat_market">Market</string>
+    <string name="search_cat_farmers">Farmers</string>
+    <string name="search_recent_ragi">Ragi recipes</string>
+    <string name="search_recent_diabetes">Diabetes friendly millets</string>
+    <string name="search_recent_navane">Navane market price</string>
+    <string name="search_trend_upma">Millet Upma Recipe</string>
+    <string name="search_trend_upma_sub">Healthy breakfast recipe</string>
+    <string name="search_trend_ragi">Ragi Price Increase</string>
+    <string name="search_trend_ragi_sub">Bengaluru market +4.2%</string>
+    <string name="search_trend_farmer">Trusted Farmer Listings</string>
+    <string name="search_trend_farmer_sub">Direct purchase available</string>
+
+    <!-- ── Mandi Watch ─────────────────────────────────────────────────── -->
+    <string name="mandi_title">Mandi Watch</string>
+    <string name="mandi_back_desc">Back</string>
+    <string name="mandi_updated_now">Updated just now</string>
+    <string name="mandi_updated_sec">Updated %1$ds ago</string>
+    <string name="mandi_updated_old">Updated 1m+ ago</string>
+    <string name="mandi_live">LIVE</string>
+    <string name="mandi_market_label">%1$s Market</string>
+    <string name="mandi_tap_switch">Tap to switch market</string>
+    <string name="mandi_todays_price">Today\'s Price · %1$s</string>
+    <string name="mandi_per_quintal">/ quintal · %1$s</string>
+    <string name="mandi_all_millets">All Millets · %1$s</string>
+    <string name="mandi_7day_trend">7-Day Trend</string>
+    <string name="mandi_highest_today">Highest Today</string>
+    <string name="mandi_hot_market">Hot Market</string>
+    <string name="mandi_davanagere">Davanagere</string>
+    <string name="mandi_high_volatility">High volatility</string>
+    <string name="mandi_recent_updates">Recent Updates</string>
+    <string name="mandi_markets_stable">Markets stable</string>
+    <string name="mandi_no_changes">No major changes</string>
+    <string name="mandi_price_up">%1$s prices up in %2$s</string>
+    <string name="mandi_price_down">%1$s prices down in %2$s</string>
+
+    <!-- ── Recipe Lab ──────────────────────────────────────────────────── -->
+    <string name="recipe_title">Recipe Lab</string>
+    <string name="recipe_subtitle">Discover the power of ancient grains.</string>
+    <string name="recipe_back_desc">Back</string>
+    <string name="recipe_search_placeholder">Search millet recipes…</string>
+    <string name="recipe_featured_badge">Today\'s Healthy Pick</string>
+    <string name="recipe_section_label">%1$s Recipes</string>
+    <string name="recipe_save_desc">Save</string>
+    <string name="recipe_unsave_desc">Unsave</string>
+    <string name="recipe_cat_breakfast">Breakfast</string>
+    <string name="recipe_cat_lunch">Lunch</string>
+    <string name="recipe_cat_snacks">Snacks</string>
+    <string name="recipe_cat_desserts">Desserts</string>
+
+    <!-- ── Recipe Detail ───────────────────────────────────────────────── -->
+    <string name="recipe_detail_back_desc">Back</string>
+    <string name="recipe_detail_bookmark_desc">Bookmark</string>
+    <string name="recipe_detail_ingredients">Ingredients</string>
+    <string name="recipe_detail_steps">Cooking Steps</string>
+    <string name="recipe_detail_health_tag">Health Benefits</string>
+    <string name="recipe_detail_time_label">Time</string>
+    <string name="recipe_detail_difficulty_label">Difficulty</string>
+    <string name="recipe_detail_servings_label">Serves</string>
+
+    <!-- ── Health Benefits ─────────────────────────────────────────────── -->
+    <string name="health_title">Health Benefits</string>
+    <string name="health_subtitle">Millet powered wellness insights</string>
+    <string name="health_back_desc">Back</string>
+    <string name="health_doctor_note">Doctor Recommendation</string>
+    <string name="health_daily_tip">Daily Wellness Tip</string>
+    <string name="health_cat_diabetes">Diabetes</string>
+    <string name="health_cat_weight">Weight Loss</string>
+    <string name="health_cat_heart">Heart Health</string>
+    <string name="health_cat_energy">Energy</string>
+
+    <!-- ── Direct Buy ──────────────────────────────────────────────────── -->
+    <string name="buy_title">Direct Buy</string>
+    <string name="buy_subtitle">Fresh from Karnataka\'s farms</string>
+    <string name="buy_back_desc">Back</string>
+    <string name="buy_region">Karnataka Region</string>
+    <string name="buy_filter_all">All</string>
+    <string name="buy_trusted_fpos">%1$d Trusted Farmer Producer Organizations</string>
+    <string name="buy_verified_desc">Verified directly from source for highest quality.</string>
+    <string name="buy_available_farmers">Available Farmers</string>
+    <string name="buy_no_sellers">No sellers available for %1$s right now.</string>
+    <string name="buy_stock_label">STOCK</string>
+    <string name="buy_price_label">PRICE</string>
+    <string name="buy_call">Call</string>
+    <string name="buy_request">Request Buy</string>
+    <string name="buy_request_sent">Request Sent ✓</string>
+
+    <!-- ── Seller Detail ───────────────────────────────────────────────── -->
+    <string name="seller_title">Seller Profile</string>
+    <string name="seller_subtitle">Verified Karnataka Farmer</string>
+    <string name="seller_back_desc">Back</string>
+    <string name="seller_trust_badges">Trust Badges</string>
+    <string name="seller_available_products">Available Products</string>
+    <string name="seller_available_label">AVAILABLE</string>
+    <string name="seller_best_price_label">BEST PRICE</string>
+    <string name="seller_call">Call</string>
+    <string name="seller_request">Request Buy</string>
+    <string name="seller_request_sent">Request Sent ✓</string>
+
+    <!-- ── Profile ─────────────────────────────────────────────────────── -->
+    <string name="profile_app_name">Siri-Dhanya Hub</string>
+    <string name="profile_back_desc">Back</string>
+    <string name="profile_settings_desc">Settings</string>
+    <string name="profile_user_name">Karthik</string>
+    <string name="profile_user_role">Millet Farmer · Karnataka</string>
+    <string name="profile_stat_saved">Saved</string>
+    <string name="profile_stat_markets">Markets</string>
+    <string name="profile_stat_farmers">Farmers</string>
+    <string name="profile_about">Siri-Dhanya Hub empowers millet farmers and helps families make healthier food choices through smart digital guidance.</string>
+    <string name="profile_settings_header">Settings &amp; Preferences</string>
+    <string name="profile_saved_recipes">Saved Recipes</string>
+    <string name="profile_notifications">Notification Alerts</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_about_millets">About Millets</string>
+    <string name="profile_contact_support">Contact Support</string>
+    <string name="profile_app_version">App Version</string>
+    <string name="profile_appreciation">Made with love for Karnataka\'s Millet Ecosystem</string>
+    <string name="profile_language_title">App Language</string>
+    <string name="profile_language_subtitle">Select your preferred language</string>
+
+    <!-- ── Saved ───────────────────────────────────────────────────────── -->
+    <string name="saved_title">Saved</string>
+    <string name="saved_back_desc">Back</string>
+    <string name="saved_items_count">%1$d items bookmarked</string>
+    <string name="saved_tab_recipes">Recipes</string>
+    <string name="saved_tab_sellers">Sellers</string>
+    <string name="saved_tab_health">Health</string>
+    <string name="saved_tab_market">Market</string>
+    <string name="saved_remove_desc">Remove</string>
+    <string name="saved_empty_recipes_title">No saved recipes yet</string>
+    <string name="saved_empty_recipes_sub">Browse the Recipe Lab and tap the bookmark to save recipes.</string>
+    <string name="saved_empty_recipes_btn">Go to Recipe Lab</string>
+    <string name="saved_empty_sellers_title">No saved sellers yet</string>
+    <string name="saved_empty_sellers_sub">Browse Direct Buy and bookmark your favorite farmers.</string>
+    <string name="saved_empty_sellers_btn">Go to Direct Buy</string>
+    <string name="saved_empty_health_title">No saved health insights yet</string>
+    <string name="saved_empty_health_sub">Explore Health Benefits and save wellness cards.</string>
+    <string name="saved_empty_health_btn">Go to Health Benefits</string>
+    <string name="saved_empty_market_title">No market watchlist items yet</string>
+    <string name="saved_empty_market_sub">Go to Mandi Watch and bookmark millet-market pairs.</string>
+    <string name="saved_empty_market_btn">Go to Mandi Watch</string>
+    <string name="saved_market_label">%1$s Market</string>
+
+    <!-- ── Bottom Nav ──────────────────────────────────────────────────── -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+</resources>

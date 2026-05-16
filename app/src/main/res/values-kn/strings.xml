@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── Home ───────────────────────────────────────────────────────── -->
+    <string name="home_greeting">ನಮಸ್ಕಾರ, ಕಾರ್ತಿಕ್</string>
+    <string name="home_welcome_back">ಸಿರಿ-ಧಾನ್ಯ ಹಬ್‌ಗೆ ಮರಳಿ ಸ್ವಾಗತ</string>
+    <string name="home_notifications_desc">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="home_search_placeholder">ಬೆಲೆಗಳು, ಪಾಕವಿಧಾನಗಳು, ಆರೋಗ್ಯ ಸಲಹೆಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="home_search_desc">ಹುಡುಕಿ</string>
+    <string name="home_market_pulse_label">ಇಂದಿನ ಮಾರುಕಟ್ಟೆ ಸ್ಥಿತಿ</string>
+    <string name="home_market_pulse_tap">ಪೂರ್ಣ ಮಾರುಕಟ್ಟೆ ಡೇಟಾವನ್ನು ವೀಕ್ಷಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ →</string>
+    <string name="home_feature_mandi">ಮಂಡಿ ವಾಚ್</string>
+    <string name="home_feature_mandi_sub">ಲೈವ್ ಬೆಲೆಗಳು</string>
+    <string name="home_feature_recipe">ಪಾಕವಿಧಾನ ಪ್ರಯೋಗಾಲಯ</string>
+    <string name="home_feature_recipe_sub">ಆರೋಗ್ಯಕರ ಅಡುಗೆ</string>
+    <string name="home_feature_health">ಆರೋಗ್ಯ</string>
+    <string name="home_feature_health_sub">ಪೌಷ್ಟಿಕಾಂಶ ಮಾಹಿತಿ</string>
+    <string name="home_feature_buy">ನೇರ ಖರೀದಿ</string>
+    <string name="home_feature_buy_sub">ರೈತರಿಂದ</string>
+    <string name="home_popular_millets">ಜನಪ್ರಿಯ ಸಿರಿಧಾನ್ಯಗಳು</string>
+    <string name="home_quick_recommendations">ತ್ವರಿತ ಶಿಫಾರಸುಗಳು</string>
+    <string name="home_rec_upma">ಸಿರಿಧಾನ್ಯ ಉಪ್ಪಿಟ್ಟು ಸ್ಪೆಷಲ್</string>
+    <string name="home_rec_upma_sub">ಕಡಿಮೆ-ಜಿಐ ಉಪಹಾರ · ನವಣೆ</string>
+    <string name="home_rec_iron">ಕಬ್ಬಿಣಾಂಶ ವರ್ಧಕ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="home_rec_iron_sub">ನವಣೆಯ ಶಕ್ತಿ ಪ್ರಯೋಜನಗಳು</string>
+    <string name="home_rec_price">ಇಂದಿನ ಅತ್ಯುತ್ತಮ ರಾಗಿ ಬೆಲೆ</string>
+    <string name="home_rec_price_sub">ದಾವಣಗೆರೆ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ₹3,420</string>
+</resources>
